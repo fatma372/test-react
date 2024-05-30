@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1{
+  color: rgb(13, 79, 79);
+  text-align: center;
+  text-decoration: underline;
+}
+h2{
+  color: rgb(101, 40, 104);
+  text-align: center;
+}
